@@ -4,7 +4,7 @@ module.exports = {
   pathPrefix: "/Harmony-of-the-Spheres",
   siteMetadata: {
     title: `Gravity Simulator`,
-    authur: `TheHappyKoala`,
+    author: `TheHappyKoala`,
     lang: `en`
   },
   plugins: [
