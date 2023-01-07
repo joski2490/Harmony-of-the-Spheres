@@ -1,10 +1,9 @@
 const path = require(`path`);
 
 module.exports = {
+  pathPrefix: "/Harmony-of-the-Spheres",
   siteMetadata: {
-    siteUrl: "https://gravitysimulator.org",
     title: `Gravity Simulator`,
-    author: `Darrell Huffman`,
     lang: `en`
   },
   plugins: [
