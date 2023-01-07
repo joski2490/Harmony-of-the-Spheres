@@ -2,7 +2,7 @@ import { useStaticQuery, graphql } from "gatsby";
 
 export default (): {
   title: string;
-  author: string;
+  authur: string;
   lang: string;
   description: string;
 } => {
@@ -12,7 +12,7 @@ export default (): {
         site {
           siteMetadata {
             title
-            author
+            authur
             lang
           }
         }
