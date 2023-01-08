@@ -12,7 +12,6 @@ export default (): {
         site {
           siteMetadata {
             title
-            authur
             lang
           }
         }
