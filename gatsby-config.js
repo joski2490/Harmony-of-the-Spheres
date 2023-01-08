@@ -3,6 +3,7 @@ const path = require(`path`);
 module.exports = {
   pathPrefix: "/Harmony-of-the-Spheres",
   siteMetadata: {
+    siteUrl: `https://joski2490.github.io/Harmony-of-the-Spheres/`
     title: `Gravity Simulator`,
     author: `TheHappyKoala`,
     lang: `en`
@@ -21,7 +22,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://gravitysimulator.org`
+        siteUrl: `https://joski2490.github.io/Harmony-of-the-Spheres/`
       }
     },
     {
