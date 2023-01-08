@@ -3,7 +3,7 @@ const path = require(`path`);
 module.exports = {
   pathPrefix: "/Harmony-of-the-Spheres",
   siteMetadata: {
-    siteUrl: `https://joski2490.github.io/Harmony-of-the-Spheres/`
+    siteUrl: `https://joski2490.github.io/Harmony-of-the-Spheres/`,
     title: `Gravity Simulator`,
     author: `TheHappyKoala`,
     lang: `en`
