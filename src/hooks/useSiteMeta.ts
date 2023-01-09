@@ -11,6 +11,7 @@ export default (): {
       query SiteMetaQuery {
         site {
           siteMetadata {
+            siteUrl
             title
             lang
           }
